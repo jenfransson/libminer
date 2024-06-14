@@ -1,6 +1,8 @@
-#' Create a summary of libraries
+#' R library summary
 #'
-#' @return
+#' Provides a summary of libraries and numbers of packages installed
+#'
+#' @return A data frame containing the paths and package counts for each library
 #' @export
 #'
 #' @examples
