@@ -4,7 +4,10 @@
 \alias{lib_summary}
 \title{R library summary}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
+}
+\arguments{
+\item{sizes}{Logical: Whether to calculate the size of each library}
 }
 \value{
 A data frame containing the paths and package counts for each library
