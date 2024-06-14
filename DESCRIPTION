@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Jennifer", "Fransson", , "fransson.jen@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-4762-901X"))
-Description: What the package does (one paragraph).
+Description: Provides functions for learning about your R libraries, and the packages you have installed.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
