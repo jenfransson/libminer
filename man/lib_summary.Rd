@@ -2,7 +2,7 @@
 % Please edit documentation in R/lib-summary.R
 \name{lib_summary}
 \alias{lib_summary}
-\title{R libary summary}
+\title{R library summary}
 \usage{
 lib_summary()
 }
